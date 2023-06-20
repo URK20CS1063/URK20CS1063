@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-My name is Jerish Wicliff, and I am originally from Tirunelveli. I completed my schooling at St. John's Matric Higher Secondary School in Kalakad. Currently, I am in my third year of pursuing a B.Tech degree at Karunya University, located in Coimbatore. I have a keen interest in web development, specifically using HTML, CSS, and related technologies. Additionally, I am proficient in Python programming. I have gained practical experience through a one-month internship at Gustovalley Technovations. Currently, I am undergoing an internship at Bezohminds IT company in Tirunelveli.
+My name is Jerish Wicliff, and I am originally from Tirunelveli. I completed my schooling at St. John's Matric Higher Secondary School in Kalakad. Currently, I am pursuing my B.Tech degree at Karunya University, located in Coimbatore. I have a keen interest in web development, specifically using HTML, CSS, and related technologies. Additionally, I am proficient in Python programming. I have gained practical experience through a one-month internship at Gustovalley Technovations. Currently, I am undergoing an internship at Bezohminds in Tirunelveli.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [jerishwicliff88@gmail.com](mailto:jerishwicliff88@gmail.com)
